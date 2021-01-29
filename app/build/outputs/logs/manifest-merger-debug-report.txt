@@ -1,0 +1,139 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/vologhat/Programming/AndroidStudioProjects/AirUIAlert/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/vologhat/Programming/AndroidStudioProjects/AirUIAlert/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/vologhat/Programming/AndroidStudioProjects/AirUIAlert/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/vologhat/Programming/AndroidStudioProjects/AirUIAlert/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [:drawabletoolbox-java] /home/vologhat/Programming/AndroidStudioProjects/AirUIAlert/drawabletoolbox-java/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.3] /home/vologhat/.gradle/caches/transforms-2/files-2.1/70d62ab80bbfa70eb9e57197f67da9e2/constraintlayout-2.0.3/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /home/vologhat/.gradle/caches/transforms-2/files-2.1/804d857ac32c03b84475f1176a5571d1/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/vologhat/.gradle/caches/transforms-2/files-2.1/fd9737479cde53b46604f823f23c73e8/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] /home/vologhat/.gradle/caches/transforms-2/files-2.1/09445ca8fa06d54dab809e807b154387/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/vologhat/.gradle/caches/transforms-2/files-2.1/897920f8ee7d8979ed67e6d1842f704d/appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/vologhat/.gradle/caches/transforms-2/files-2.1/a8cee93b00553fc19f32edb5c8743345/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/vologhat/.gradle/caches/transforms-2/files-2.1/1bb8462f20db71193bd95338ed52bb96/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/vologhat/.gradle/caches/transforms-2/files-2.1/bc6a689347f5c264e55cecab55dd11d0/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /home/vologhat/.gradle/caches/transforms-2/files-2.1/28068a58aada58b072498a333f4b94f7/activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/vologhat/.gradle/caches/transforms-2/files-2.1/418a9faf7ca80e34db280a903e9d2b62/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/vologhat/.gradle/caches/transforms-2/files-2.1/b11d6bc0bb84eb60346f49785802fe2f/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /home/vologhat/.gradle/caches/transforms-2/files-2.1/f208879d256bb91f24d1aba17c79f355/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.1] /home/vologhat/.gradle/caches/transforms-2/files-2.1/74689b8b0020b8d259be41a6d2948dc9/core-1.3.1/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/vologhat/.gradle/caches/transforms-2/files-2.1/e6bf4e9fc584cbf3a222d455d26fe034/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/vologhat/.gradle/caches/transforms-2/files-2.1/bbee4779605cf9b0a7aa19145750d49f/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/vologhat/.gradle/caches/transforms-2/files-2.1/90270d61527ede839415891e3dbd9d11/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/vologhat/.gradle/caches/transforms-2/files-2.1/deae5c208d53a6f0e07a3653ac362e80/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/vologhat/.gradle/caches/transforms-2/files-2.1/db4ab65bad0e74d00161103c151ca120/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/vologhat/.gradle/caches/transforms-2/files-2.1/9153f624f21ab8c23f56518e6f1f5e15/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/vologhat/.gradle/caches/transforms-2/files-2.1/207744251e9b11616e016f33c77315cb/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/vologhat/.gradle/caches/transforms-2/files-2.1/d9aad1276c29cb8a6dd151d57f9fedcd/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/vologhat/Programming/AndroidStudioProjects/AirUIAlert/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/vologhat/Programming/AndroidStudioProjects/AirUIAlert/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/vologhat/Programming/AndroidStudioProjects/AirUIAlert/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /home/vologhat/Programming/AndroidStudioProjects/AirUIAlert/app/src/main/AndroidManifest.xml:3:5-37
+		INJECTED from /home/vologhat/Programming/AndroidStudioProjects/AirUIAlert/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vologhat/Programming/AndroidStudioProjects/AirUIAlert/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/vologhat/Programming/AndroidStudioProjects/AirUIAlert/app/src/main/AndroidManifest.xml
+		ADDED from /home/vologhat/Programming/AndroidStudioProjects/AirUIAlert/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/vologhat/Programming/AndroidStudioProjects/AirUIAlert/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/vologhat/Programming/AndroidStudioProjects/AirUIAlert/app/src/main/AndroidManifest.xml
+		ADDED from /home/vologhat/Programming/AndroidStudioProjects/AirUIAlert/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/vologhat/Programming/AndroidStudioProjects/AirUIAlert/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/vologhat/Programming/AndroidStudioProjects/AirUIAlert/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/vologhat/Programming/AndroidStudioProjects/AirUIAlert/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.3] /home/vologhat/.gradle/caches/transforms-2/files-2.1/70d62ab80bbfa70eb9e57197f67da9e2/constraintlayout-2.0.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.3] /home/vologhat/.gradle/caches/transforms-2/files-2.1/70d62ab80bbfa70eb9e57197f67da9e2/constraintlayout-2.0.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.3.1] /home/vologhat/.gradle/caches/transforms-2/files-2.1/74689b8b0020b8d259be41a6d2948dc9/core-1.3.1/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] /home/vologhat/.gradle/caches/transforms-2/files-2.1/74689b8b0020b8d259be41a6d2948dc9/core-1.3.1/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/vologhat/.gradle/caches/transforms-2/files-2.1/e6bf4e9fc584cbf3a222d455d26fe034/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/vologhat/.gradle/caches/transforms-2/files-2.1/e6bf4e9fc584cbf3a222d455d26fe034/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.1] /home/vologhat/.gradle/caches/transforms-2/files-2.1/74689b8b0020b8d259be41a6d2948dc9/core-1.3.1/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /home/vologhat/Programming/AndroidStudioProjects/AirUIAlert/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/vologhat/Programming/AndroidStudioProjects/AirUIAlert/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/vologhat/Programming/AndroidStudioProjects/AirUIAlert/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/vologhat/Programming/AndroidStudioProjects/AirUIAlert/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/vologhat/Programming/AndroidStudioProjects/AirUIAlert/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/vologhat/Programming/AndroidStudioProjects/AirUIAlert/app/src/main/AndroidManifest.xml:11:9-40
+activity#ru.vologhat.airuialert.MainActivity
+ADDED from /home/vologhat/Programming/AndroidStudioProjects/AirUIAlert/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/vologhat/Programming/AndroidStudioProjects/AirUIAlert/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/vologhat/Programming/AndroidStudioProjects/AirUIAlert/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/vologhat/Programming/AndroidStudioProjects/AirUIAlert/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/vologhat/Programming/AndroidStudioProjects/AirUIAlert/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/vologhat/Programming/AndroidStudioProjects/AirUIAlert/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/vologhat/Programming/AndroidStudioProjects/AirUIAlert/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /home/vologhat/Programming/AndroidStudioProjects/AirUIAlert/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/vologhat/Programming/AndroidStudioProjects/AirUIAlert/app/src/main/AndroidManifest.xml
+INJECTED from /home/vologhat/Programming/AndroidStudioProjects/AirUIAlert/app/src/main/AndroidManifest.xml
+MERGED from [:drawabletoolbox-java] /home/vologhat/Programming/AndroidStudioProjects/AirUIAlert/drawabletoolbox-java/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:drawabletoolbox-java] /home/vologhat/Programming/AndroidStudioProjects/AirUIAlert/drawabletoolbox-java/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.3] /home/vologhat/.gradle/caches/transforms-2/files-2.1/70d62ab80bbfa70eb9e57197f67da9e2/constraintlayout-2.0.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.3] /home/vologhat/.gradle/caches/transforms-2/files-2.1/70d62ab80bbfa70eb9e57197f67da9e2/constraintlayout-2.0.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /home/vologhat/.gradle/caches/transforms-2/files-2.1/804d857ac32c03b84475f1176a5571d1/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /home/vologhat/.gradle/caches/transforms-2/files-2.1/804d857ac32c03b84475f1176a5571d1/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/vologhat/.gradle/caches/transforms-2/files-2.1/fd9737479cde53b46604f823f23c73e8/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/vologhat/.gradle/caches/transforms-2/files-2.1/fd9737479cde53b46604f823f23c73e8/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /home/vologhat/.gradle/caches/transforms-2/files-2.1/09445ca8fa06d54dab809e807b154387/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/vologhat/.gradle/caches/transforms-2/files-2.1/09445ca8fa06d54dab809e807b154387/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/vologhat/.gradle/caches/transforms-2/files-2.1/897920f8ee7d8979ed67e6d1842f704d/appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/vologhat/.gradle/caches/transforms-2/files-2.1/897920f8ee7d8979ed67e6d1842f704d/appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/vologhat/.gradle/caches/transforms-2/files-2.1/a8cee93b00553fc19f32edb5c8743345/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/vologhat/.gradle/caches/transforms-2/files-2.1/a8cee93b00553fc19f32edb5c8743345/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/vologhat/.gradle/caches/transforms-2/files-2.1/1bb8462f20db71193bd95338ed52bb96/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/vologhat/.gradle/caches/transforms-2/files-2.1/1bb8462f20db71193bd95338ed52bb96/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/vologhat/.gradle/caches/transforms-2/files-2.1/bc6a689347f5c264e55cecab55dd11d0/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/vologhat/.gradle/caches/transforms-2/files-2.1/bc6a689347f5c264e55cecab55dd11d0/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /home/vologhat/.gradle/caches/transforms-2/files-2.1/28068a58aada58b072498a333f4b94f7/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /home/vologhat/.gradle/caches/transforms-2/files-2.1/28068a58aada58b072498a333f4b94f7/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/vologhat/.gradle/caches/transforms-2/files-2.1/418a9faf7ca80e34db280a903e9d2b62/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/vologhat/.gradle/caches/transforms-2/files-2.1/418a9faf7ca80e34db280a903e9d2b62/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/vologhat/.gradle/caches/transforms-2/files-2.1/b11d6bc0bb84eb60346f49785802fe2f/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/vologhat/.gradle/caches/transforms-2/files-2.1/b11d6bc0bb84eb60346f49785802fe2f/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /home/vologhat/.gradle/caches/transforms-2/files-2.1/f208879d256bb91f24d1aba17c79f355/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/vologhat/.gradle/caches/transforms-2/files-2.1/f208879d256bb91f24d1aba17c79f355/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.1] /home/vologhat/.gradle/caches/transforms-2/files-2.1/74689b8b0020b8d259be41a6d2948dc9/core-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] /home/vologhat/.gradle/caches/transforms-2/files-2.1/74689b8b0020b8d259be41a6d2948dc9/core-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/vologhat/.gradle/caches/transforms-2/files-2.1/e6bf4e9fc584cbf3a222d455d26fe034/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/vologhat/.gradle/caches/transforms-2/files-2.1/e6bf4e9fc584cbf3a222d455d26fe034/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/vologhat/.gradle/caches/transforms-2/files-2.1/bbee4779605cf9b0a7aa19145750d49f/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/vologhat/.gradle/caches/transforms-2/files-2.1/bbee4779605cf9b0a7aa19145750d49f/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/vologhat/.gradle/caches/transforms-2/files-2.1/90270d61527ede839415891e3dbd9d11/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/vologhat/.gradle/caches/transforms-2/files-2.1/90270d61527ede839415891e3dbd9d11/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/vologhat/.gradle/caches/transforms-2/files-2.1/deae5c208d53a6f0e07a3653ac362e80/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/vologhat/.gradle/caches/transforms-2/files-2.1/deae5c208d53a6f0e07a3653ac362e80/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/vologhat/.gradle/caches/transforms-2/files-2.1/db4ab65bad0e74d00161103c151ca120/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/vologhat/.gradle/caches/transforms-2/files-2.1/db4ab65bad0e74d00161103c151ca120/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/vologhat/.gradle/caches/transforms-2/files-2.1/9153f624f21ab8c23f56518e6f1f5e15/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/vologhat/.gradle/caches/transforms-2/files-2.1/9153f624f21ab8c23f56518e6f1f5e15/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/vologhat/.gradle/caches/transforms-2/files-2.1/207744251e9b11616e016f33c77315cb/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/vologhat/.gradle/caches/transforms-2/files-2.1/207744251e9b11616e016f33c77315cb/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/vologhat/.gradle/caches/transforms-2/files-2.1/d9aad1276c29cb8a6dd151d57f9fedcd/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/vologhat/.gradle/caches/transforms-2/files-2.1/d9aad1276c29cb8a6dd151d57f9fedcd/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /home/vologhat/Programming/AndroidStudioProjects/AirUIAlert/app/src/main/AndroidManifest.xml
+INJECTED from /home/vologhat/Programming/AndroidStudioProjects/AirUIAlert/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/vologhat/Programming/AndroidStudioProjects/AirUIAlert/app/src/main/AndroidManifest.xml
+		ADDED from /home/vologhat/Programming/AndroidStudioProjects/AirUIAlert/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vologhat/Programming/AndroidStudioProjects/AirUIAlert/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/vologhat/Programming/AndroidStudioProjects/AirUIAlert/app/src/main/AndroidManifest.xml
+		ADDED from /home/vologhat/Programming/AndroidStudioProjects/AirUIAlert/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vologhat/Programming/AndroidStudioProjects/AirUIAlert/app/src/main/AndroidManifest.xml
